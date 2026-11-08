@@ -1,0 +1,38 @@
+[
+  {
+    "dish_name": "金汤酸菜鱼（鲈鱼）",
+    "dish_price": 79
+  },
+  {
+    "dish_name": "避风塘炒大虾",
+    "dish_price": 72
+  },
+  {
+    "dish_name": "黑椒蒜子牛肉粒",
+    "dish_price": 58
+  },
+  {
+    "dish_name": "鸡丁（荔枝味型）",
+    "dish_price": 38
+  },
+  {
+    "dish_name": "蒜蓉粉丝蒸娃娃菜",
+    "dish_price": 28
+  },
+  {
+    "dish_name": "咸蛋黄焗南瓜",
+    "dish_price": 32
+  },
+  {
+    "dish_name": "老醋花生米（凉菜）",
+    "dish_price": 16
+  },
+  {
+    "dish_name": "西红柿鸡蛋汤（家常例汤）",
+    "dish_price": 15
+  },
+  {
+    "dish_name": "手工红糖冰粉（甜品）",
+    "dish_price": 9
+  }
+]
